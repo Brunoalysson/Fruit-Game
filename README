@@ -1,0 +1,5 @@
+npm install express
+npm install ws
+
+node server.js
+node client.js
